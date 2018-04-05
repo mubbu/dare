@@ -1,0 +1,1 @@
+it's a set of programs which manages and controls the resources that are available in the computer is called os
